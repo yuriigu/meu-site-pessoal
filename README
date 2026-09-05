@@ -1,0 +1,22 @@
+Meu Site Pessoal
+================
+
+Sobre a Atividade
+-----------------
+
+Atividade proposta durante a matéria de Engenharia de Software, com foco na prática do fluxo de trabalho com Git e Git Flow.
+
+Objetivo
+--------
+
+Praticar o Git Flow (fluxo de trabalho com branches, pull requests e code review) por meio da construção colaborativa 
+de um site pessoal html hospedado no GitHub Pages.
+
+Estrutura do Site
+-----------------
+
+Página Principal - yuriigu.github.io/meu-site-pessoal
+Sobre Mim - yuriigu.github.io/meu-site-pessoal/sobre-mim
+Experiência - yuriigu.github.io/meu-site-pessoal/experiencia
+Formação Acadêmica - yuriigu.github.io/meu-site-pessoal/formacao-academica
+Contato - yuriigu.github.io/meu-site-pessoal/contato 
